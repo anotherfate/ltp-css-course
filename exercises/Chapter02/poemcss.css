@@ -1,0 +1,16 @@
+
+
+p {
+	font-weight: bold;
+	font-family: "Arial", sans-serif;
+}
+
+p:nth-child(3) {
+	font-style: italic;
+}
+
+.poem {
+	white-space: pre-wrap;
+	text-align: left;
+	font-family: 'Josefin Slab', serif;
+}
